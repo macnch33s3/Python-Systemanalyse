@@ -1,6 +1,6 @@
 # SystemAnalyse
 
-**SystemAnalyse** is a Python tool for collecting, analyzing, and visualizing system performance data using [Pandas](https://pandas.pydata.org/). Used in the Modul MOSIM for analyzing csv-data, all organized in structured DataFrames.
+**SystemAnalyse** is a Python tool for collecting, analyzing, and visualizing system performance data using [Pandas](https://pandas.pydata.org/). Used in the curricular modul MOSIM for analyzing csv-data, all organized in structured DataFrames.
 
 ## 🔧 Features
 
