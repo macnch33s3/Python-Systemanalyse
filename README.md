@@ -16,3 +16,21 @@
 git clone https://github.com/yourusername/SystemAnalyse.git
 cd SystemAnalyse
 pip install -r requirements.txt
+
+## 🐍 Requirements
+
+pandas
+psutil
+matplotlib  # optional for visualization
+seaborn     # optional
+
+## 📁 Project Structure
+SystemAnalyse/
+├── systemanalyse/
+│   ├── __init__.py
+│   ├── collect.py         # Data collection using psutil
+│   └── analysis.py        # Analysis functions using Pandas
+├── tests/
+│   └── test_collect.py
+├── requirements.txt
+└── README.md
